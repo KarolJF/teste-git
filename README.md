@@ -1,2 +1,2 @@
-#EStudo sobre git github
+#Estudo sobre git/github
 teste de uso do git
